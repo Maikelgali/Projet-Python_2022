@@ -15,3 +15,8 @@ We also do a comparison of these models and note that the random forest have the
 
 API
 We created an API thanks to streamlit who can predict if someone have purchased or not in our website. Nevertheless, we can improve our API that we can put the code in the API and thanks to that it can be visible on internet and We can also have more graphics.
+
+
+GALI Maikel
+AZER Jeremy
+ESILV
